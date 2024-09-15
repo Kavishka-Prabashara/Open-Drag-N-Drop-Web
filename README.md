@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Roadmap
 - [ ] Add support for more shapes (triangle, ellipse, etc.).
-- [ ] Add undo/redo functionality.
+- [ ] Add undo/redo/delete functionality.
 - [ ] Improve HTML generation with semantic tags.
 - [ ] Allow exporting styles as CSS.
 
