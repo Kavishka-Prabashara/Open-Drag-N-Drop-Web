@@ -1,12 +1,19 @@
 # Project Roadmap
 
-## Version 1.0
-- [x] Implement drag-and-drop functionality for square, round, and rectangular elements.
-- [x] Allow customization (size, color) of shapes.
-- [x] Add "Generate HTML" button to output HTML source.
+This document outlines the planned features and improvements for the project. It is a living document and may be updated as the project evolves.
 
-## Version 1.1 (Planned)
-- [ ] Add more shape options (e.g., triangle, star).
-- [ ] Implement grid snapping for more precise placement.
-- [ ] Allow users to export the CSS for their layout.
-- [ ] Add user authentication for saving designs.
+## Upcoming Features
+
+- **Version 1.1**: Enhanced customization options for shapes.
+- **Version 1.2**: Export design to CSS.
+- **Version 1.3**: User authentication and design saving.
+
+## Future Ideas
+
+- Implement additional shapes (e.g., polygons).
+- Add support for layering and z-index.
+- Develop a mobile version of the tool.
+
+## Feedback
+
+We welcome feedback and suggestions for future features. Please open an issue to propose new ideas or improvements.
