@@ -1,4 +1,4 @@
-# Vite.js + React Drag-and-Drop Shape Generator
+Drag-and-Drop Web Site Generator
 
 ## Description
 This project is a visual workspace built using **Vite.js** and **React** that allows users to drag and drop shapes (square, round, rectangular, etc.) from a toolbox into a main working area. After customizing the shapes as needed, users can click a "Generate" button to export the corresponding HTML code for the layout. This tool is designed to help with rapid HTML structure generation.
