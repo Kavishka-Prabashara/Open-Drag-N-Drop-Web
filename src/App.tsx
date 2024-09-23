@@ -1,4 +1,7 @@
+import Navbar from "./components/NavBar";
+import Footer from "./components/Footer";
 
+import Home from "./pages/Home.tsx";
 import './App.css'
 
 function App() {
@@ -6,9 +9,10 @@ function App() {
 
   return (
       <div>
-          <div>Let's Contribute</div>
+          <Navbar/>
+          <Home/>
+          <Footer/>
       </div>
-
   )
 }
 
